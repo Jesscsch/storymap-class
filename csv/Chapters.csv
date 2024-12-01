@@ -1,16 +1,16 @@
-Chapter,Media Link,Media Credit,Media Credit Link,Description,Zoom,Marker,Marker Color,Location,Latitude,Longitude,Overlay,Overlay Transparency,GeoJSON Overlay,GeoJSON Feature Properties
-Background - Raleigh
-Background - Flooding
-Background - WQ Parameters
-Result - E.coli and Discharge
-Result - SPC and Discharge
-Result - Percentage of Minority Persons
-Result- Percent of Tract That Intersect an Impaired watershed
-Result - Percentage Below 200% Poverty
-"Result - Percentage of Households That Make Less than $75,000"
-Result - Percentage of Unemployed Persons
-Result - Subwatershed Elevation
-Result - Subwatershed Land Use
-Discussion
-Limitations
-Next Step
+,Chapter,Media Link,Media Credit,Media Credit Link,Description,Zoom,Marker,Marker Color,Location,Latitude,Longitude,Overlay,Overlay Transparency,GeoJSON Overlay,GeoJSON Feature Properties
+0,Background - Raleigh,media/visit_raleigh.jpg,Source: Raleigh Government,https://raleighnc.gov/,"In the 1950’s, a little bit after World War II ended the     Housing Act of 1954 saw the concept of urban renewal begin to really take hold over the urban centers of America.     The goal was to revitalize the aging and decaying parts of inner cities, build new public housing, and create a network     of highways to connect these restored cities across the Nation. However, this revitalization was affected by racist ideology     of the time. In the name of urban renewal, it was most often the African American residents or business owners that were     forcibly pushed out from their homes or businesses for redevelopment. Specific to Raleigh, the segregation of communities     was further enforced when exclusively white suburbs were expanded to the North and West of the city, and Black housing     developments were developed towards the Southeast. Notably, these housing developments include Rochester Heights and     Biltmore Hills. The difference of location between these two pockets of development is key to understanding the origin of     environmental justice issues currently affecting Southeast Raleigh. The white neighborhoods were built on higher elevation     land, meaning those communities faced less frequent and intense flooding events. The Black neighborhoods were built on     lower elevation land, meaning those communities faced more frequent and intense flooding events.",15.75,Hidden,,"Raleigh, NC",35.7796,-78.6382,,,,
+1,Background - Flooding,,,,,,,,,,,,,,
+2,Background - WQ Parameters,,,,,,,,,,,,,,
+3,Result - E.coli and Discharge,,,,,,,,,,,,,,
+4,Result - SPC and Discharge,,,,,,,,,,,,,,
+5,Result - Percentage of Minority Persons,,,,,,,,,,,,,,
+6,Result- Percent of Tract That Intersect an Impaired watershed,,,,,,,,,,,,,,
+7,Result - Percentage Below 200% Poverty,,,,,,,,,,,,,,
+8,"Result - Percentage of Households That Make Less than $75,000",,,,,,,,,,,,,,
+9,Result - Percentage of Unemployed Persons,,,,,,,,,,,,,,
+10,Result - Subwatershed Elevation,,,,,,,,,,,,,,
+11,Result - Subwatershed Land Use,,,,,,,,,,,,,,
+12,Discussion,,,,,,,,,,,,,,
+13,Limitations,,,,,,,,,,,,,,
+14,Next Step,,,,,,,,,,,,,,
